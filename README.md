@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dell2311
 - 👀 I’m interested in Programming, Game Hacking, Gaming and everything IT
-- 🌱 I’m currently learning ASP .NET, Bootstrap, Newtork Architecture Basics
+- 🌱 I’m currently learning ASP .NET, Bootstrap, React, Network Architecture Basics
 - 💞️ I’m looking to collaborate on something game hacking related(Although i don`t have much experience yet)
 - 📫 How to reach me delld2311@gmail.com
 - 😄 Pronouns: He/Him
